@@ -19,5 +19,5 @@ force method use random usernames and passwords:
 > - admin changeme123
 >
 ## **RESULT** 
-*usernmae*  *admin*<br>
-*password*  *qwerty123*
+**usernmae**  *admin*<br>
+**password**  *qwerty123*
