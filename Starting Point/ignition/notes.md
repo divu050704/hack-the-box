@@ -1,4 +1,5 @@
-# **machine ip** > 10.129.1.27
+# **machine ip** 
+> 10.129.1.27
 
 - Only port 80 open (server running)
 - Problem loading on target ip directing to ignition.htb
