@@ -1,9 +1,9 @@
 ## **Machine ip** 
 > 10.129.1.27
 ## **Inference**
-	- Only port 80 open (server running)
-	Problem loading on target ip directing to ignition.htb
-	Added `10.129.1.27 ignition.htb` to /etc/hosts
+-	Only port 80 open (server running)
+-	Problem loading on target ip directing to ignition.htb
+-	Added `10.129.1.27 ignition.htb` to /etc/hosts
 	Gives error 302 (Not found)
 	Used gobuster | Important directory found:- admin
 	Admin login panel found but the panel is made by a company named mogento which has anti-brute 
