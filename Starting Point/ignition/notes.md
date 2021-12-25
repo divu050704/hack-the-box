@@ -8,11 +8,11 @@
 - Used gobuster | Important directory found:- admin
 - Admin login panel found but the panel is made by a company named mogento which has anti-brute 
  force method use random usernames and passwords:
-> admin admin123
-> admin root123
-> admin password1
-> admin administrator1
-> admin changeme1
+ > admin admin123
+ > admin root123
+ > admin password1
+ > admin administrator1
+ > admin changeme1
 > admin password123
 > admin qwerty123
 > admin administrator123
