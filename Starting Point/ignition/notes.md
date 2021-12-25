@@ -16,7 +16,8 @@ force method use random usernames and passwords:
 > - admin password123
 > - admin qwerty123
 > - admin administrator123
-> - admin changeme123`
+> - admin changeme123
 >
 ## **RESULT** 
-*password* and *usernmae* revived,i.e. ,*qwerty123* and *admin*
+*usernmae*  *admin*
+*password*  *qwerty123*
