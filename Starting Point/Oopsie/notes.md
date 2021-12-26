@@ -4,7 +4,7 @@
 1. Nmap scan shows port 80 open with `Apache httpd 2.4.29 ((Ubuntu))` running on it, that means a website is being hosted on the machie
 2. Used BurpSuite to access the website `http://10.129.93.218` and found `http://10.129.93.218/cdn-cgi/login`
 3. Signed in as guest 
-4. Changed cookie **role**->*admin* and usl **http://10.129.93.218/cdn-cgi/login/admin.php?content=accounts&id=2**->*http://10.129.93.218/cdn-cgi/login/admin.php?content=accounts&id=1*.
+4. Changed cookie **role**->*admin* and usl **10.129.93.218/cdn-cgi/login/admin.php?content=accounts&id=2**->*10.129.93.218/cdn-cgi/login/admin.php?content=accounts&id=1*.
 5. Got access id as 34322 so change cookie **user**->*34322*
 6. Eureka! Got admin access.
 7. Go to uploads section and upload a php reverse shell payload.
