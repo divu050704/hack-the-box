@@ -5,15 +5,18 @@
 2. *Jetty 9.4.39.v20210325* open on port 8080
 3. Opened `10.129.93.180:8080` in browser. Offered a login screen with Jetty service.
 4. Used Default credentials 
->	admin:password<br>
->	admin:admin<br>
->	root:root<br>
->	root:password<br>
->	admin:admin1<br>
->	admin:password1<br>
->	root:password1<br>
+```
+admin:password
+admin:admin
+root:root
+root:password
+admin:admin1
+admin:password1
+root:password1
+```
 5. Signed in with credential
->	**username**:root<br>
+
+> **username**:root<br>
 >	**password**:password<br>
 6. Using jenkins Version `Jenkins 2.289.1`
 7. Manage Jenkine > Script Console
