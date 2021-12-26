@@ -1,6 +1,6 @@
-## ** Machine IP **
+## **Machine IP**
 > 10.129.93.180
-## ** Inference **
+## **Inference**
 1. Nmap Scan `nmap -sC -sV 10.129.93.180`
 2. *Jetty 9.4.39.v20210325* open on port 8080
 3. Opened `10.129.93.180:8080` in browser. Offered a login screen with Jetty service.
