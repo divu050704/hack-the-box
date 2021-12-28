@@ -1,0 +1,2 @@
+Loaded 1 password hash (PKZIP [32/64])
+741852963        (backup.zip)
