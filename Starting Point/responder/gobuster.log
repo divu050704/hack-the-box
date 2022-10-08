@@ -1,0 +1,30 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://unika.htb/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Timeout:                 10s
+===============================================================
+2022/10/08 10:08:24 Starting gobuster in directory enumeration mode
+===============================================================
+/img                  (Status: 301) [Size: 328] [--> http://unika.htb/img/]
+/css                  (Status: 301) [Size: 328] [--> http://unika.htb/css/]
+/js                   (Status: 301) [Size: 327] [--> http://unika.htb/js/] 
+/examples             (Status: 503) [Size: 398]                            
+/licenses             (Status: 403) [Size: 417]                            
+/inc                  (Status: 301) [Size: 328] [--> http://unika.htb/inc/]
+/%20                  (Status: 403) [Size: 298]                            
+/IMG                  (Status: 301) [Size: 328] [--> http://unika.htb/IMG/]
+/*checkout*           (Status: 403) [Size: 298]                            
+/CSS                  (Status: 301) [Size: 328] [--> http://unika.htb/CSS/]
+/Img                  (Status: 301) [Size: 328] [--> http://unika.htb/Img/]
+/JS                   (Status: 301) [Size: 327] [--> http://unika.htb/JS/] 
+/phpmyadmin           (Status: 403) [Size: 417]                            
+/webalizer            (Status: 403) [Size: 417]                            
+/*docroot*            (Status: 403) [Size: 298]                            
+/*                    (Status: 403) [Size: 298]                            
