@@ -1,0 +1,18 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://three.htb
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Extensions:              php,js,txt
+[+] Timeout:                 10s
+===============================================================
+2022/10/12 09:46:41 Starting gobuster in directory enumeration mode
+===============================================================
+/index.php            (Status: 200) [Size: 11952]
+/images               (Status: 301) [Size: 307] [--> http://three.htb/images/\]
+Progress: 43292 / 882244 (4.91%) 
