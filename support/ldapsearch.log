@@ -1,0 +1,57 @@
+# extended LDIF
+#
+# LDAPv3
+# base <CN=support,CN=users, DC=support,DC=htb> with scope subtree
+# filter: (objectclass=*)
+# requesting: ALL
+#
+
+# support, Users, support.htb
+dn: CN=support,CN=Users,DC=support,DC=htb
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: support
+c: US
+l: Chapel Hill
+st: NC
+postalCode: 27514
+distinguishedName: CN=support,CN=Users,DC=support,DC=htb
+instanceType: 4
+whenCreated: 20220528111200.0Z
+whenChanged: 20221119052110.0Z
+uSNCreated: 12617
+info: Ironside47pleasure40Watchful
+memberOf: CN=Shared Support Accounts,CN=Users,DC=support,DC=htb
+memberOf: CN=Remote Management Users,CN=Builtin,DC=support,DC=htb
+uSNChanged: 140130
+company: support
+streetAddress: Skipper Bowles Dr
+name: support
+objectGUID:: CqM5MfoxMEWepIBTs5an8Q==
+userAccountControl: 66048
+badPwdCount: 45794
+codePage: 0
+countryCode: 0
+badPasswordTime: 133133059941407882
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 132982099209777070
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAG9v9Y4G6g8nmcEILUQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: support
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=support,DC=htb
+dSCorePropagationData: 20220528111201.0Z
+dSCorePropagationData: 16010101000000.0Z
+lastLogonTimestamp: 133133088709376386
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 2
+# numEntries: 1
