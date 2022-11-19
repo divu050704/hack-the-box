@@ -1,0 +1,15 @@
+
+    __             __               __     
+   / /_____  _____/ /_  _______  __/ /____ 
+  / //_/ _ \/ ___/ __ \/ ___/ / / / __/ _ \
+ / ,< /  __/ /  / /_/ / /  / /_/ / /_/  __/
+/_/|_|\___/_/  /_.___/_/   \__,_/\__/\___/                                        
+
+Version: v1.0.3 (9dad6e1) - 11/19/22 - Ronnie Flathers @ropnop
+
+2022/11/19 09:41:38 >  Using KDC(s):[0m
+2022/11/19 09:41:38 >  	support.htb:88
+[0m
+[32m2022/11/19 09:43:34 >  [+] VALID USERNAME:	 administrator@support.htb[0m
+[32m2022/11/19 09:43:52 >  [+] VALID USERNAME:	 support@support.htb[0m
+[32m2022/11/19 09:43:54 >  [+] VALID USERNAME:	 management@support.htb[0m
