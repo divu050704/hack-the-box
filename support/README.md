@@ -235,7 +235,7 @@ getting file \UserInfo.exe.zip of size 277499 as UserInfo.exe.zip (406.3 KiloByt
 ### UserInfo.exe (dnSpy)
 - Upload all the files to `dnSpy` and search for protected function under `UserInfo.service`.
 
-[screebshit](https://github.com/divu050704/assets-holder/raw/main/tryhackme-screenshots/Screenshot_20221119_113323.png)
+![screebshit](https://github.com/divu050704/assets-holder/raw/main/tryhackme-screenshots/Screenshot_20221119_113323.png)
 
 - We will right this piece of code in python format.
 
