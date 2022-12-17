@@ -1,0 +1,17 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          http://shoppy.htb
+[+] Method:       GET
+[+] Threads:      10
+[+] Wordlist:     /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt
+[+] User Agent:   gobuster/3.1.0
+[+] Timeout:      10s
+===============================================================
+2022/12/17 18:48:26 Starting gobuster in VHOST enumeration mode
+===============================================================
+Found: mattermost.shoppy.htb (Status: 200) [Size: 3122]
+===============================================================
+2022/12/17 19:07:58 Finished
+===============================================================
