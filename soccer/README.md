@@ -328,7 +328,7 @@ Nmap done: 1 IP address (1 host up) scanned in 29.37 seconds
 
 - We can see that the server is requesting `ws://soc-player.soccer.htb:9091/` , which seems like a database, made a python file which will act as mediator between `ws://soc-player.soccer.htb:9091/` and `sqlmap`.
 
-[alt](https://github.com/divu050704/assets-holder/raw/main/tryhackme-screenshots/38.png)
+![alt](https://github.com/divu050704/assets-holder/raw/main/tryhackme-screenshots/38.png)
 
 ```python
 from http.server import SimpleHTTPRequestHandler
