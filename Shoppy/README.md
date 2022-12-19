@@ -255,7 +255,7 @@ jaeger@shoppy:~$
 - Checked sudo commands for `jaeger` and found we can run `/home/deploy/password-manager` as `deploy` 
 - Downloaded this elf to my machine an uploaded to [cyberchef](https://cyberchef.io/) 
 
-[alt](https://github.com/divu050704/assets-holder/raw/main/tryhackme-screenshots/37.png) 
+![alt](https://github.com/divu050704/assets-holder/raw/main/tryhackme-screenshots/37.png) 
 
 - We can see that word is sample is after `.Please enter your master password: `, but this is not visible while execution 
 - Tried this as password and got password for `deploy` 
