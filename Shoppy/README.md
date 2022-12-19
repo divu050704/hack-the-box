@@ -1,4 +1,3 @@
-# Recon
 - Started `rustscan` on the machine.
 
 ```console
