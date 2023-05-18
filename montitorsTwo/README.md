@@ -81,7 +81,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.81 seconds
 
 - Web page shows `cacti` tried default passwords, but no success.
 
-![[Pasted image 20230518183239.png]]
+![Image](https://raw.githubusercontent.com/divu050704/assets-holder/main/tryhackme-screenshots/Screenshot%202023-05-18%20at%2019-17-33%20Login%20to%20Cacti.png)
 
 - Checked if `Cacti Version 1.2.22` is vulnerable to a vulnerability and found an exploit [CVE-2022-46169](https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22)
 - This exploit allows unauthenticated Remote Code Execution on the machine.
